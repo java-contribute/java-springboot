@@ -91,6 +91,7 @@
     </dependencies>
 
     <build>
+        <finalName>java-springboot</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
